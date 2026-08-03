@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Dark rounded background -->
+  <rect width="32" height="32" rx="7" fill="#1c1917"/>
+
+  <!-- Git branch icon (copper) -->
+  <!-- Main vertical stem -->
+  <line x1="11" y1="7" x2="11" y2="19" stroke="#c47a3a" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- Branch arm -->
+  <path d="M11 12 Q11 9 14 9 L20 9" stroke="#c47a3a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Top node (main) -->
+  <circle cx="11" cy="7" r="2.4" fill="#c47a3a"/>
+  <!-- Bottom node -->
+  <circle cx="11" cy="25" r="2.4" fill="#c47a3a"/>
+  <!-- Branch tip node -->
+  <circle cx="21" cy="9" r="2.4" fill="#c47a3a"/>
+  <!-- Branch vertical down -->
+  <line x1="21" y1="11.4" x2="21" y2="19" stroke="#c47a3a" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- Branch bottom node -->
+  <circle cx="21" cy="21" r="2.4" fill="#c47a3a"/>
+</svg>
